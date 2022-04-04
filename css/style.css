@@ -9,3 +9,7 @@
     margin: 0%;
     padding: 0%;
 }
+.nav-item {
+    text-align: center;
+    text-size-adjust: 12;
+}

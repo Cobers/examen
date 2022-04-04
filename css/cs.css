@@ -1,0 +1,28 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+.d-flex {
+    position: relative;
+}
+.logo{
+    margin: 0%;
+    padding: 0%;
+}
+.nav-item {
+    text-align: center;
+    tab-size: 1cm;
+}
+.cierresesion {
+    position: relative; right: 150px;
+    position: relative; bottom: 200px;
+}
+.imgredonda{
+    position: relative; left: 32%;
+    border-radius: 50%;
+    height: 8%;
+    width: 8%;
+} 
+.h1-perfil{
+    text-align: center;
+}
